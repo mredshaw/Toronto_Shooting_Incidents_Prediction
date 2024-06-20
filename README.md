@@ -55,3 +55,28 @@ The purpose of this project is to develop predictive models for the Toronto Poli
 
 ## Key Insights
 The notebook provides detailed insights into the factors influencing shooting incidences in Toronto and offers predictive models to help TPS allocate resources more effectively.
+
+
+![Slide 3](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide3.png?raw=true)
+
+![Slide 4](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide4.png?raw=true)
+
+![Slide 5](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide5.png?raw=true)
+
+![Slide 6](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide6.png?raw=true)
+
+![Slide 7](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide7.png?raw=true)
+
+![Slide 8](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide8.png?raw=true)
+
+![Slide 9](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide9.png?raw=true)
+
+![Slide 10](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide10.png?raw=true)
+
+![Slide 11](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide11.png?raw=true)
+
+![Slide 12](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide12.png?raw=true)
+
+![Slide 13](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide13.png?raw=true)
+
+![Slide 14](https://github.com/mredshaw/Toronto_Shooting_Incidents_Prediction/blob/main/Presentation_Slides/Slide14.png?raw=true)
